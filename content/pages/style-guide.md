@@ -94,12 +94,9 @@ Combined emphasis with **asterisks and *underscores***.\
 Strikethrough uses two tildes. ~~Scratch this.~~\
 Для зачеркивания используются две тильды. ~~Поцарапай это.~~
 
-Инлайн-код с обратными знаками вокруг него.
+\Инлайн-код с обратными знаками вокруг него.\\
 
 ## Таблицы
-
-```
-```
 
     \<div class="responsive-table">
     \<table>
