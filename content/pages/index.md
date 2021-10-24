@@ -75,8 +75,9 @@ sections:
   - type: cta_section
     title: Это CTA
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Познав интернет,(да и жизни граммульку),Испортилась в "нет",Искурилась
+      в... "дидюльку",Такой контингент -Дюже нужен "Державе"И сам результат -
+      очевиден...(По аве).
     actions:
       - label: Подробнее
         url: /features
