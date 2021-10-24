@@ -2,7 +2,7 @@
 title: Главная
 sections:
   - type: hero_section
-    title: Ш "Большой герой"
+    title: Шапка "Большой герой"
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
