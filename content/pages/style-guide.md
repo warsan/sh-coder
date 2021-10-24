@@ -89,7 +89,7 @@ In cursus turpis massa tincidunt. Tempor nec feugiat nisl pretium. Odio aenean s
 
 Для зачеркивания используем две тильды. ~~Поцарапай это.~~
 
-\Инлайн-код с обратными знаками вокруг него.\  
+\Инлайн-код с обратными знаками вокруг него.  
 
 ## Таблицы
 <div class="responsive-table">
