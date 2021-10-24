@@ -113,7 +113,7 @@ In cursus turpis massa tincidunt. Tempor nec feugiat nisl pretium. Odio aenean s
     <td>Содержание подошвы 2</td>
     </tr>
     </tfoot>
-    </table>  
+    </table>
     </div>
 
 
