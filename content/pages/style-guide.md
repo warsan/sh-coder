@@ -108,7 +108,7 @@ In cursus turpis massa tincidunt. Tempor nec feugiat nisl pretium. Odio aenean s
     <td>Содержание тела 1\</td>  
     <td>Содержание тела 2\</td>  
     </tr>  
-</tbody>  
+    </tbody>  
 <tfoot>  
 <tr>  
 <td>Содержание нижнего колонтитула 1\</td>  
