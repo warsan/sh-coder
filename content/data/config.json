@@ -69,7 +69,16 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; Stackbit. Все права защищены. Этот сайт Jamstack был создан с помощью <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Создайте свой <a href=\"https://app.stackbit.com/create?theme=starter&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">здесь</a>"
+        "content": "&copy; Stackbit. Все права защищены. Этот сайт Jamstack был создан с помощью <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Создайте свой <a href=\"https://app.stackbit.com/create?theme=starter&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">здесь</a>",
+        "links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "new_window": false,
+                "no_follow": false
+            }
+        ]
     },
     "domain": "https://sh-coder-4fdd9.netlify.app",
     "favicon": "/images/knopka.png"
