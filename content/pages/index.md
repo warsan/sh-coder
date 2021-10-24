@@ -13,7 +13,7 @@ sections:
         style: secondary
     align: left
     image: images/hero.svg
-    image_alt: Hero placeholder image
+    image_alt: Изображение-заставка героя
     image_position: right
     has_background: true
     background:
