@@ -3,7 +3,7 @@ title: Features
 sections:
   - type: hero_section
     title: Характеристики
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    subtitle: Здесь пока пусто
     align: center
   - type: features_section
     features:
