@@ -32,7 +32,7 @@ layout: page
 ---
 Это абзац.  
 Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed.  
-Fringilla urna porttitor rhoncus dolor purus. 
+Fringilla urna porttitor rhoncus dolor purus.  
 Consectetur purus ut faucibus pulvinar. Nullam non nisi est sit. 
 Tellus in metus vulputate eu scelerisque felis. Nunc congue nisi vitae suscipit tellus mauris. 
 Phasellus egestas tellus rutrum tellus pellentesque eu tincidunt. 
