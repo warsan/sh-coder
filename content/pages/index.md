@@ -54,10 +54,17 @@ sections:
             url: /features
             style: secondary
       - title: Особенность 3
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: |+
+          ***Святым артефактом  
+          Я стану, но позже.  
+          Покуда же - "занят"...  
+          (ведь мы не рабы),  
+          \---  
+          Под лестничной клеткой  
+          Ботинком по роже  
+          Пинают "бомжа" -  
+          Молодые жлобы...  ***
+
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
