@@ -100,8 +100,8 @@ In cursus turpis massa tincidunt. Tempor nec feugiat nisl pretium. Odio aenean s
     <th>Содержание заголовка 1</th>
     <th>Содержание заголовка 2</th>
     </tr>
-    </thead>  
-    <tbody>  
+    </thead>
+    <tbody>
     <tr>  
     <td>Содержание тела 1</td>  
     <td>Содержание тела 2</td>  
