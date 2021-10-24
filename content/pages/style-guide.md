@@ -12,8 +12,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        A reference for suggested typographic treatment and styles for your
-        content
+        A reference for suggested typographic treatment and styles for your content
       keyName: property
     - name: 'og:image'
       value: images/1.png
