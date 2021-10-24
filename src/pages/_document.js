@@ -4,7 +4,7 @@ import { Helmet } from 'react-helmet';
 export default class MyDocument extends Document {
     static async getInitialProps(ctx) {
         const initialProps = await Document.getInitialProps(ctx);
-        // see https://github.com/nfl/react-helmet#server-usage for more information 'head' was occupied by 'renderPage().head', we cannot use it
+        // см. https://github.com/nfl/react-helmet#server-usage для получения дополнительной информации 'head' был занят 'renderPage().head', мы не можем его использовать
         return { ...initialProps, helmet: Helmet.renderStatic() };
     }
 
