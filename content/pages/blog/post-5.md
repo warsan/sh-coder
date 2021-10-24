@@ -1,5 +1,5 @@
 ---
-title: Amet Nulla Facilisi Morbi Tempus
+title: Похвали нас
 date: '2020-06-02'
 author: content/data/team/gordon-norman.yaml
 categories:
@@ -10,9 +10,8 @@ tags:
 image: images/5.png
 image_alt: Post 5 placeholder image
 excerpt: >-
-  Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera
-  philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio
-  affecit, quanto.
+  Четверостиший строка обернётся балладой, Чревоугодничий стих прожужжат комары,
+  Чаяний мёд разольётся по телу усладой, Чаю нальёт повариха, сопрев от жары...
 seo:
   title: Amet Nulla Facilisi Morbi Tempus
   description: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'

@@ -1,9 +1,10 @@
 ---
-title: Who We Are
+title: Кто мы
 sections:
   - type: hero_section
-    title: Who We Are
+    title: Кто мы
     align: center
+    has_background: false
   - type: content_section
     content: >-
       Nisi porta lorem mollis aliquam ut porttitor. Pellentesque dignissim enim
@@ -19,7 +20,7 @@ sections:
       neque. Lectus arcu bibendum at varius vel pharetra. Enim sed faucibus
       turpis in eu mi bibendum neque egestas.
   - type: team_section
-    title: Our Team
+    title: Наша команда
     team:
       - content/data/team/miles-tone.yaml
       - content/data/team/dianne-ameter.yaml
@@ -27,10 +28,12 @@ sections:
       - content/data/team/hanson-deck.yaml
       - content/data/team/gordon-norman.yaml
   - type: cta_section
-    title: Join the Team
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    title: Присоединяйтесь к команде
+    subtitle: >-
+      Грянет, вздыхая, турецкий хор, Гланды срывая - от "ля минор", "Ландыши"
+      сбацает мне тапёр, Рядышком сяду - я твой минёр.
     actions:
-      - label: Contact Us
+      - label: Связаться с нами
         url: /contact
         style: secondary
     has_background: true

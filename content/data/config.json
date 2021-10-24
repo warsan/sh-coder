@@ -1,47 +1,49 @@
 {
-    "title": "Stackbit Starter Theme",
+    "title": "Стартовая тема Stackbit",
     "path_prefix": "/",
     "header": {
-        "title": "Starter",
+        "title": "Стартер",
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Features",
+                "label": "Характеристики",
                 "url": "/features",
                 "style": "link"
             },
             {
-                "label": "Blog",
+                "label": "Блог",
                 "url": "/blog",
                 "style": "link"
             },
             {
-                "label": "About",
+                "label": "О сайте",
                 "url": "/about",
                 "style": "link"
             },
             {
-                "label": "Style Guide",
+                "label": "Руководство по стилю",
                 "url": "/style-guide",
                 "style": "link"
             },
             {
-                "label": "Contact Us",
+                "label": "Связаться с нами",
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "/images/knopka-dd252109.png",
+        "logo_alt": "Кнопка"
     },
     "footer": {
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Contact Us",
+                "label": "Связаться с нами",
                 "url": "/contact",
                 "style": "link"
             },
             {
-                "label": "Privacy and Terms",
+                "label": "Конфиденциальность и условия",
                 "url": "/terms",
                 "style": "link"
             }
@@ -67,6 +69,17 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=starter&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
-    }
+        "content": "&copy; Stackbit. Все права защищены. Этот сайт Jamstack был создан с помощью <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Создайте свой <a href=\"https://app.stackbit.com/create?theme=starter&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">здесь</a><br>",
+        "links": [
+            {
+                "label": "Экспромты",
+                "url": "https://www.chitalnya.ru/work/1303542/",
+                "style": "link",
+                "new_window": false,
+                "no_follow": false
+            }
+        ]
+    },
+    "domain": "https://sh-coder-4fdd9.netlify.app",
+    "favicon": "/images/knopka.png"
 }

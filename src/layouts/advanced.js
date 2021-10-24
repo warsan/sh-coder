@@ -19,11 +19,11 @@ export default class Advanced extends React.Component {
                     const sectionType = _.get(section, 'type');
                     const component = _.upperFirst(_.camelCase(sectionType));
                     if (!component) {
-                        throw new Error(`page section does not have the 'type' property, page: ${pageUrl}`);
+                        throw new Error(`у раздела page нет свойства 'type', page: ${pageUrl}`);
                     }
                     const Component = components[component];
                     if (!Component) {
-                        throw new Error(`no component matching the page section's type: ${sectionType}`);
+                        throw new Error(`нет компонента, соответствующего типу раздела страницы: ${sectionType}`);
                     }
                     return  <Component key={index} section={section} data={data} posts={posts} />;
                 })}
