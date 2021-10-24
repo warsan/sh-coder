@@ -106,7 +106,7 @@ In cursus turpis massa tincidunt. Tempor nec feugiat nisl pretium. Odio aenean s
 <tbody>  
 <tr>  
 <td>Содержание тела 1\</td>  
-\<td>Содержание тела 2\</td>  
+<td>Содержание тела 2\</td>  
 \</tr>  
 \</tbody>  
 \<tfoot>  
