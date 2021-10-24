@@ -96,7 +96,7 @@ In cursus turpis massa tincidunt. Tempor nec feugiat nisl pretium. Odio aenean s
     <table>
     <caption>Таблица с thead, tfoot и tbody</caption>  
     <thead>  
-    <tr>  
+    <tr>
     <th>Содержание заголовка 1</th>
     <th>Содержание заголовка 2</th>
     </tr>
