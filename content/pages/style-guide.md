@@ -81,43 +81,43 @@ In cursus turpis massa tincidunt. Tempor nec feugiat nisl pretium. Odio aenean s
 
 ## Встроенные элементы
 
-Подчеркивание, оно же *курсив*, с помощью *звёздочек*   или *подчёркивания*  
+Подчеркивание, оно же *курсив*, с помощью *звёздочек*   или *подчёркивания*
 
 Это [пример ссылки](http://example.com).
 
-Strong emphasis, aka bold, with **asterisks** or **underscores**.  
-Сильное подчеркивание, оно же полужирное, со \*\***звездочками**\*\* или \_**подчеркиванием**\_.  
+Strong emphasis, aka bold, with **asterisks** or **underscores**.\
+Сильное подчеркивание, оно же полужирное, со \*\***звездочками**\*\* или \_**подчеркиванием**\_.
 
-Combined emphasis with **asterisks and *underscores***.  
-Комбинированное подчеркивание с помощью **звездочек и** ***знаков подчеркивания***.  
+Combined emphasis with **asterisks and *underscores***.\
+Комбинированное подчеркивание с помощью **звездочек и** ***знаков подчеркивания***.
 
-Strikethrough uses two tildes. ~~Scratch this.~~   
-Для зачеркивания используются две тильды. ~~Поцарапай это.~~  
+Strikethrough uses two tildes. ~~Scratch this.~~\
+Для зачеркивания используются две тильды. ~~Поцарапай это.~~
 
-Инлайн-код с обратными знаками вокруг него.  
+Инлайн-код с обратными знаками вокруг него.
 
-## Tables
+## Таблицы  
 
-<div class="responsive-table">
-  <table>
-      <caption>Table with thead, tfoot, and tbody</caption>
-    <thead>
-      <tr>
-        <th>Header content 1</th>
-        <th>Header content 2</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Body content 1</td>
-        <td>Body content 2</td>
-      </tr>
-    </tbody>
-    <tfoot>
-      <tr>
-        <td>Footer content 1</td>
-        <td>Footer content 2</td>
-      </tr>
-    </tfoot>
-  </table>
-</div>
+\<div class="responsive-table">
+  \<table>
+      \<caption>Таблица с thead, tfoot и tbody\</caption>
+    \<thead>
+      \<tr>
+        \<th>Содержание заголовка 1\</th>
+        \<th>Содержание заголовка 2\</th>
+      \</tr>
+    \</thead>
+    \<tbody>
+      \<tr>
+        \<td>Содержание тела 1\</td>
+        \<td>Содержание тела 2\</td>
+      \</tr>
+    \</tbody>
+    \<tfoot>
+      \<tr>
+        \<td>Содержание нижнего колонтитула 1\</td>
+        \<td>Содержание нижнего колонтитула 2\</td>
+      \</tr>
+    \</tfoot>
+  \</table>
+\</div>
