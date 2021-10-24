@@ -34,7 +34,7 @@ sections:
 
         align: left
         image: images/feature.svg
-        image_alt: К-заполнитель 1
+        image_alt: Картинка-заполнитель 1
         image_position: right
         actions:
           - label: Learn More
