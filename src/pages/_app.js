@@ -1,6 +1,6 @@
 import '../sass/main.scss';
 
-// This default export is required in a new `pages/_app.js` file.
+// Этот экспорт по умолчанию необходим в новом файле `pages/_app.js`.
 export default function MyApp({ Component, pageProps }) {
     return <Component {...pageProps} />;
 }
