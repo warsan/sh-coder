@@ -92,7 +92,7 @@ In cursus turpis massa tincidunt. Tempor nec feugiat nisl pretium. Odio aenean s
 \Инлайн-код с обратными знаками вокруг него.\  
 
 ## Таблицы
-`   <div class="responsive-table">
+`  <div class="responsive-table">
     <table>
     <caption>Таблица с thead, tfoot и tbody</caption>
     <thead>
