@@ -104,7 +104,7 @@ In cursus turpis massa tincidunt. Tempor nec feugiat nisl pretium. Odio aenean s
            </tr>
     </tbody>
     <tfoot><tr><td>Содержание подошвы 1</td>
-    <td>Содержание подошвы 2</td>
+               <td>Содержание подошвы 2</td>
     </tr>
     </tfoot>
     </table>
