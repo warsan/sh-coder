@@ -29,7 +29,9 @@ sections:
       - content/data/team/gordon-norman.yaml
   - type: cta_section
     title: Присоединяйтесь к команде
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    subtitle: >-
+      Грянет, вздыхая, турецкий хор, Гланды срывая - от "ля минор", "Ландыши"
+      сбацает мне тапёр, Рядышком сяду - я твой минёр.
     actions:
       - label: Contact Us
         url: /contact
