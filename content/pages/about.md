@@ -4,6 +4,7 @@ sections:
   - type: hero_section
     title: Кто мы
     align: center
+    has_background: true
   - type: content_section
     content: >-
       Nisi porta lorem mollis aliquam ut porttitor. Pellentesque dignissim enim
