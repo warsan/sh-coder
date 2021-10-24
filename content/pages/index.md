@@ -37,7 +37,7 @@ sections:
         image_alt: Картинка-заполнитель 1
         image_position: right
         actions:
-          - label: Learn More
+          - label: Подробнее
             url: /features
             style: secondary
       - title: Feature 2
