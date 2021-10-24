@@ -23,7 +23,7 @@ export default class Advanced extends React.Component {
                     }
                     const Component = components[component];
                     if (!Component) {
-                        throw new Error(`no component matching the page section's type: ${sectionType}`);
+                        throw new Error(`нет компонента, соответствующего типу раздела страницы: ${sectionType}`);
                     }
                     return  <Component key={index} section={section} data={data} posts={posts} />;
                 })}
