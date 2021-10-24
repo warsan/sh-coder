@@ -96,28 +96,38 @@ Strikethrough uses two tildes. ~~Scratch this.~~\
 
 Инлайн-код с обратными знаками вокруг него.
 
-## Таблицы  
+## Таблицы  &#xA;
+
+```
+```
 
 \<div class="responsive-table">
-  \<table>
-      \<caption>Таблица с thead, tfoot и tbody\</caption>
-    \<thead>
-      \<tr>
-        \<th>Содержание заголовка 1\</th>
-        \<th>Содержание заголовка 2\</th>
-      \</tr>
-    \</thead>
-    \<tbody>
-      \<tr>
-        \<td>Содержание тела 1\</td>
-        \<td>Содержание тела 2\</td>
-      \</tr>
-    \</tbody>
-    \<tfoot>
-      \<tr>
-        \<td>Содержание нижнего колонтитула 1\</td>
-        \<td>Содержание нижнего колонтитула 2\</td>
-      \</tr>
-    \</tfoot>
-  \</table>
-\</div>
+\<table>
+\<caption>Таблица с thead, tfoot и tbody\</caption>
+\<thead>
+\<tr>
+\<th>Содержание заголовка 1\</th>
+\<th>Содержание заголовка 2\</th>
+\</tr>
+\</thead>
+\<tbody>
+\<tr>
+\<td>Содержание тела 1\</td>
+\<td>Содержание тела 2\</td>
+\</tr>
+\</tbody>
+\<tfoot>
+\<tr>
+\<td>Содержание нижнего колонтитула 1\</td>
+\<td>Содержание нижнего колонтитула 2\</td>
+\</tr>
+\</tfoot>
+\</table>
+\</div>  
+
+```
+
+
+
+
+```
