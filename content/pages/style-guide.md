@@ -87,7 +87,6 @@ In cursus turpis massa tincidunt. Tempor nec feugiat nisl pretium. Odio aenean s
 
 Комбинированное подчеркивание с помощью **звездочек и _знаков подчеркивания_**.
 
-Strikethrough uses two tildes. ~~Scratch this.~~\
 Для зачеркивания используем две тильды. ~~Поцарапай это.~~
 
 \Инлайн-код с обратными знаками вокруг него.\  
