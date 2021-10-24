@@ -99,7 +99,7 @@ In cursus turpis massa tincidunt. Tempor nec feugiat nisl pretium. Odio aenean s
     <tr>  
     <th>Содержание заголовка 1</th>
     <th>Содержание заголовка 2</th>
-    </tr>  
+    </tr>
     </thead>  
     <tbody>  
     <tr>  
