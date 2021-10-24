@@ -8,7 +8,7 @@ sections:
       - label: Подробности
         url: /features
         style: primary
-      - label: Contact Us
+      - label: Связаться с нами
         url: /contact
         style: secondary
     align: left
