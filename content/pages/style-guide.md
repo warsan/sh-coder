@@ -94,7 +94,7 @@ In cursus turpis massa tincidunt. Tempor nec feugiat nisl pretium. Odio aenean s
 ## Таблицы
 `    <div class="responsive-table">  
     <table>  
-    <caption>Таблица с thead, tfoot и tbody\</caption>  
+    <caption>Таблица с thead, tfoot и tbody</caption>  
     <thead>  
     <tr>  
     <th>Содержание заголовка 1\</th>  
