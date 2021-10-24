@@ -96,7 +96,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~\
 
 Инлайн-код с обратными знаками вокруг него.
 
-## Таблицы  &#xA;
+## Таблицы  
 
 ```
 ```
@@ -123,7 +123,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~\
 \</tr>
 \</tfoot>
 \</table>
-\</div>  
+\</div>
 
 ```
 
