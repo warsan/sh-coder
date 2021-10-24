@@ -3,7 +3,7 @@ title: Главная
 sections:
   - type: hero_section
     title: Шапка "Большой герой"
-    subtitle: Шаблон сайта. Подлежит запл
+    subtitle: Шаблон сайта. Подлежит заполнению
     actions:
       - label: Learn More
         url: /features
