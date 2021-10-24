@@ -36,11 +36,6 @@ sections:
       - label: Связаться с нами
         url: /contact
         style: secondary
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        new_window: false
-        no_follow: false
     has_background: true
     background_color: blue
 seo:
