@@ -84,7 +84,7 @@ In cursus turpis massa tincidunt. Tempor nec feugiat nisl pretium. Odio aenean s
 Это [пример ссылки](http://example.com).
 
 Strong emphasis, aka bold, with **asterisks** or **underscores**.\
-Сильное подчеркивание, оно же полужирное, со **звёздочками** или __подчеркиванием__.
+Сильное подчеркивание, оно же полужирное, со **звёздочками** или __подчёркиванием__.
 
 Combined emphasis with **asterisks and *underscores***.\
 Комбинированное подчеркивание с помощью **звездочек и** ***знаков подчеркивания***.
