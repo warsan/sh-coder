@@ -93,7 +93,7 @@ In cursus turpis massa tincidunt. Tempor nec feugiat nisl pretium. Odio aenean s
 
 ## Таблицы
 
-
+ё
     <div class="responsive-table">  
     <table>  
     <caption>Таблица с thead, tfoot и tbody\</caption>  
