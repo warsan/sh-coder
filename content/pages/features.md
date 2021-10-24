@@ -40,7 +40,7 @@ sections:
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
-          - label: Learn More
+          - label: Подробнее
             url: /blog
             style: primary
 seo:
