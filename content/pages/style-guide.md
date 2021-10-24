@@ -110,7 +110,7 @@ In cursus turpis massa tincidunt. Tempor nec feugiat nisl pretium. Odio aenean s
 </tr>  
 </tbody>  
 <tfoot>  
-\<tr>  
+<tr>  
 \<td>Содержание нижнего колонтитула 1\</td>  
 \<td>Содержание нижнего колонтитула 2\</td>  
 \</tr>  
