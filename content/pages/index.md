@@ -5,7 +5,7 @@ sections:
     title: Шапка "Большой герой"
     subtitle: Шаблон сайта. Подлежит заполнению.
     actions:
-      - label: Learn More
+      - label: Подробнее
         url: /features
         style: primary
       - label: Contact Us
