@@ -9,7 +9,7 @@ export default class MyDocument extends Document {
         return { ...initialProps, helmet: Helmet.renderStatic() };
     }
 
-    // should render on <html>
+    // должен отображаться на <html>
     get helmetHtmlAttrComponents() {
         return this.props.helmet.htmlAttributes.toComponent();
     }
