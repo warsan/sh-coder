@@ -30,7 +30,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "/images/knopka-dd252109.png"
     },
     "footer": {
         "has_nav": true,
