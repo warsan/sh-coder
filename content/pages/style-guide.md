@@ -81,17 +81,19 @@ In cursus turpis massa tincidunt. Tempor nec feugiat nisl pretium. Odio aenean s
 
 ## Встроенные элементы
 
-Подчеркивание, оно же \*курсив\*, с помощью звёздочек или подчёркивания.
+Подчеркивание, оно же \*курсив\*, с помощью \*звёздочек\* или \_подчёркивания\_.
 
 Это [пример ссылки](http://example.com).
 
-Strong emphasis, aka bold, with **asterisks** or **underscores**. Сильное подчеркивание, оно же полужирное, со \*\*звездочками\*\* или \_подчеркиванием\_.
+Strong emphasis, aka bold, with **asterisks** or **underscores**. 
+Сильное подчеркивание, оно же полужирное, со \*\***звездочками**\*\* или \_**подчеркиванием**\_.
 
-Combined emphasis with **asterisks and *underscores***.
+Combined emphasis with **asterisks and *underscores***. 
+Комбинированное подчеркивание с помощью **звездочек и** ***знаков подчеркивания***.
 
-Strikethrough uses two tildes. ~~Scratch this.~~
+Strikethrough uses two tildes. ~~Scratch this.~~ Для зачеркивания используются две тильды. ~~Поцарапай это.~~
 
-Inline `code` with `back-ticks around` it.
+Инлайн-код с обратными знаками вокруг него.
 
 ## Tables
 
