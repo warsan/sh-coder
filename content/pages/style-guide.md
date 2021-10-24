@@ -115,6 +115,6 @@ In cursus turpis massa tincidunt. Tempor nec feugiat nisl pretium. Odio aenean s
 <td>Содержание нижнего колонтитула 2\</td>  
 </tr>  
 </tfoot>  
-\</table>  
-\</div>  
+</table>  
+</div>  
 ```
