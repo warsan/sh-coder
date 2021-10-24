@@ -33,7 +33,7 @@ sections:
       Грянет, вздыхая, турецкий хор, Гланды срывая - от "ля минор", "Ландыши"
       сбацает мне тапёр, Рядышком сяду - я твой минёр.
     actions:
-      - label: Contact Us
+      - label: Связаться с нами
         url: /contact
         style: secondary
     has_background: true
