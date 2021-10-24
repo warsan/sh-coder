@@ -103,8 +103,7 @@ In cursus turpis massa tincidunt. Tempor nec feugiat nisl pretium. Odio aenean s
                <td>Содержание тела 2</td>
            </tr>
     </tbody>
-    <tfoot>
-    <tr>
+    <tfoot><tr>
     <td>Содержание подошвы 1</td>
     <td>Содержание подошвы 2</td>
     </tr>
