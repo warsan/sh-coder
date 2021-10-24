@@ -2,7 +2,7 @@
 title: Руководство по стилю
 seo:
   title: Theme Style Guide
-  description: A reference for suggested typographic treatment and styles for your content
+  description: Ссылка на предлагаемые типографские обработки и стили для вашего контента
   extra:
     - name: 'og:type'
       value: website
