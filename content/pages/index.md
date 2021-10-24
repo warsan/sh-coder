@@ -26,10 +26,12 @@ sections:
     title: Характеристики
     features:
       - title: Характеристика 1
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: |+
+          ***Секретари оральных шуток не рожали,
+          Пока цари в секретарях шутов держали,
+          Но Генеральный Секретарь - плохая шутка,
+          На дыбе - шут, ну а в приёмной - секретутка...***
+
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
