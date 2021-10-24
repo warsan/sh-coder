@@ -19,7 +19,7 @@ export default class MyDocument extends Document {
         return this.props.helmet.bodyAttributes.toComponent();
     }
 
-    // should render on <head>
+    // должен отображаться в <head>
     get helmetHeadComponents() {
         return Object.keys(this.props.helmet)
             .filter((el) => el !== 'htmlAttributes' && el !== 'bodyAttributes')
