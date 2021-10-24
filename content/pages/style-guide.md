@@ -98,7 +98,7 @@ In cursus turpis massa tincidunt. Tempor nec feugiat nisl pretium. Odio aenean s
     <thead>  
     <tr>  
     <th>Содержание заголовка 1</th>
-    <th>Содержание заголовка 2</th>  
+    <th>Содержание заголовка 2</th>
     </tr>  
     </thead>  
     <tbody>  
