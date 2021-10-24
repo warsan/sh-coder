@@ -1,5 +1,5 @@
 ---
-title: Style Guide
+title: Руководство по стилю
 seo:
   title: Theme Style Guide
   description: A reference for suggested typographic treatment and styles for your content
