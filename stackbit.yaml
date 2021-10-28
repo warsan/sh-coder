@@ -187,7 +187,9 @@ models:
       - type: string
         name: id
         label: ID
-        description: A unique identifier used when filtering posts, e.g. "news"
+        description: >-
+          Уникальный идентификатор, используемый при фильтрации сообщений,
+          например "новости"
         required: true
       - type: string
         name: link
