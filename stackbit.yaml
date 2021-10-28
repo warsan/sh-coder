@@ -239,7 +239,7 @@ models:
       - type: reference
         name: author
         label: Author
-        description: The author of the post
+        description: Автор поста
         models:
           - person
       - type: list
