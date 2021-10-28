@@ -229,7 +229,7 @@ models:
       - type: string
         name: title
         label: Title
-        description: The title of the post
+        description: Заголовок сообщения
         required: true
       - type: date
         name: date
