@@ -263,7 +263,7 @@ models:
       - type: string
         name: image_alt
         label: Featured Image Alt Text
-        description: The alt text of the featured image
+        description: alt-текст отображаемой иллюстрации
       - type: string
         name: excerpt
         label: Excerpt
