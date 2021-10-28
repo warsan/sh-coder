@@ -206,7 +206,7 @@ models:
     fields:
       - type: string
         name: title
-        label: Title
+        label: Заголовок
         description: Заголовок страницы
         required: true
       - type: model
