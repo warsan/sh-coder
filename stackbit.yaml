@@ -218,7 +218,7 @@ models:
   post:
     type: page
     urlPath: /blog/{slug}
-    label: Post
+    label: Пост
     layout: post
     folder: blog
     exclude:
