@@ -267,7 +267,7 @@ models:
       - type: string
         name: excerpt
         label: Excerpt
-        description: The excerpt of the page displayed in the blog feed
+        description: Отрывок страницы, отображаемый в ленте блога
       - type: model
         name: seo
         models:
