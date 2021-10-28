@@ -180,7 +180,7 @@ models:
         label: Bio
   category:
     type: data
-    label: Category
+    label: Категория
     folder: categories
     labelField: id
     fields:
