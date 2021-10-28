@@ -228,7 +228,7 @@ models:
     fields:
       - type: string
         name: title
-        label: Title
+        label: Заголовок
         description: Заголовок сообщения
         required: true
       - type: date
