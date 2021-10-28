@@ -244,7 +244,7 @@ models:
           - person
       - type: list
         name: categories
-        label: Categories
+        label: Категории
         description: Категории поста
         items:
           type: reference
