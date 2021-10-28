@@ -276,7 +276,7 @@ models:
     labelField: title
   advanced:
     type: page
-    label: Advanced Page
+    label: Расширенная страница
     layout: advanced
     hideContent: true
     fields:
