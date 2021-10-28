@@ -259,7 +259,7 @@ models:
       - type: image
         name: image
         label: Featured Image
-        description: Изображение, показанное в записи и ленте блога
+        description: Иллюстрация для записи и ленты блога
       - type: string
         name: image_alt
         label: Featured Image Alt Text
