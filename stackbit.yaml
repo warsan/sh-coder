@@ -194,7 +194,7 @@ models:
       - type: string
         name: link
         label: Link
-        description: The link to the category page, e.g. "blog/category/news"
+        description: Ссылка на страницу категории, например. "blog/category/news"
       - type: string
         name: title
         label: Title
