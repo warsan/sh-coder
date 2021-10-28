@@ -266,7 +266,7 @@ models:
         description: alt-текст отображаемой иллюстрации
       - type: string
         name: excerpt
-        label: Excerpt
+        label: Отрывок
         description: Отрывок страницы, отображаемый в ленте блога
       - type: model
         name: seo
