@@ -245,7 +245,7 @@ models:
       - type: list
         name: categories
         label: Categories
-        description: The categories of the post
+        description: Категории поста
         items:
           type: reference
           models:
