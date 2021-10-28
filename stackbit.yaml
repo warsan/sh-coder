@@ -258,7 +258,7 @@ models:
           type: string
       - type: image
         name: image
-        label: Featured Image
+        label: Иллюстрация
         description: Иллюстрация для записи и ленты блога
       - type: string
         name: image_alt
