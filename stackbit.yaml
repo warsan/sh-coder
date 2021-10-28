@@ -207,7 +207,7 @@ models:
       - type: string
         name: title
         label: Title
-        description: The title of the page
+        description: Заголовок страницы
         required: true
       - type: model
         name: seo
