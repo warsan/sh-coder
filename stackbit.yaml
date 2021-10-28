@@ -238,7 +238,7 @@ models:
         required: true
       - type: reference
         name: author
-        label: Author
+        label: Автор
         description: Автор поста
         models:
           - person
