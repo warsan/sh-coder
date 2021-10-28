@@ -288,7 +288,7 @@ models:
       - type: list
         name: sections
         label: Разделы
-        description: Page sections
+        description: Разделы страницы
         items:
           type: model
           models:
