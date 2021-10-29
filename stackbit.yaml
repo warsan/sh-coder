@@ -42,7 +42,7 @@ models:
       - type: string
         name: title
         label: Title
-        description: Site title
+        description: Название сайта
         required: true
       - type: string
         name: path_prefix
