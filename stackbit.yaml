@@ -376,7 +376,7 @@ models:
       - type: string
         name: type
         label: Object Type
-        description: The type of the object
+        description: Тип объекта
         const: content_section
         hidden: true
   cta_section:
