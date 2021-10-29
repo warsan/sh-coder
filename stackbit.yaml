@@ -680,7 +680,7 @@ models:
             - type: string
               name: value
               default: ''
-              label: Value
+              label: Значение
             - type: string
               name: keyName
               default: name
