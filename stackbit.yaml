@@ -564,7 +564,7 @@ models:
     fields:
       - type: string
         name: title
-        label: Title
+        label: Название
         description: Название характеристики
       - type: markdown
         name: content
