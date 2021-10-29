@@ -64,7 +64,7 @@ models:
         description: Квадратный значок, представляющий ваш веб-сайт
       - type: model
         name: header
-        label: Header Configuration
+        label: Конфигурация шапки
         models:
           - header
       - type: model
