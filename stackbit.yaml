@@ -429,7 +429,7 @@ models:
         description: Название раздела
       - type: list
         name: features
-        label: Features
+        label: Особенности
         items:
           type: model
           models:
