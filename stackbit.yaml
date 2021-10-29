@@ -149,7 +149,7 @@ models:
             - action
   person:
     type: data
-    label: Person
+    label: Человек
     folder: team
     labelField: id
     fields:
