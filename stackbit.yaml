@@ -94,7 +94,7 @@ models:
       - type: boolean
         name: has_nav
         label: Enable Navigation Menu
-        description: Display the navigation menu bar in the header
+        description: Отображение панели навигационного меню в заголовке
         default: true
       - type: list
         name: nav_links
