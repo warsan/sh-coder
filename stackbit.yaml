@@ -160,7 +160,7 @@ models:
         required: true
       - type: string
         name: link
-        label: Link
+        label: Ссылка
         description: Ссылка на страницу автора, например. "blog/author/john-doe"
       - type: string
         name: first_name
