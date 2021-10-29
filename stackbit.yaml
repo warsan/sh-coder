@@ -320,8 +320,8 @@ models:
         name: show_recent
         label: Show recent posts
         description: >-
-          Show the specified number of recent posts. Should not be used with
-          author and category filters.
+          Показать указанное количество последних сообщений. Не следует
+          использовать с фильтрами автора и категории.
         default: false
         required: true
       - type: number
