@@ -609,7 +609,7 @@ models:
     fields:
       - type: string
         name: label
-        label: Label
+        label: Метка
         required: true
       - type: string
         name: url
