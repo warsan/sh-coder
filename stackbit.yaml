@@ -125,7 +125,7 @@ models:
       - type: boolean
         name: has_social
         label: Enable Social Links
-        description: Display social links in the footer
+        description: Отображение социальных ссылок в подошве
         default: true
       - type: list
         name: social_links
