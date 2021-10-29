@@ -640,7 +640,7 @@ models:
     fields:
       - type: string
         name: title
-        label: Title
+        label: Заголовок
         description: Заголовок страницы, который помещается в тег <title>.
         default: ''
       - type: string
