@@ -86,7 +86,7 @@ models:
       - type: image
         name: logo
         label: Logo
-        description: The logo image displayed in the header
+        description: Изображение логотипа, отображаемое в заголовке
       - type: string
         name: logo_alt
         label: Logo Alt Text
