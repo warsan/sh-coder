@@ -437,7 +437,7 @@ models:
       - type: string
         name: type
         label: Object Type
-        description: The type of the object
+        description: Тип объекта
         const: features_section
         hidden: true
   hero_section:
