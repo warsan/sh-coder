@@ -138,7 +138,7 @@ models:
       - type: string
         name: content
         label: Содержание подошвы
-        description: The copyright text displayed in the footer
+        description: Текст авторского права, отображаемый в подошве
       - type: list
         name: links
         label: Links
