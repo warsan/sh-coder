@@ -94,7 +94,7 @@ models:
       - type: boolean
         name: has_nav
         label: Включить меню навигации
-        description: Отображение панели навигационного меню в заголовке
+        description: Отображение панели навигационного меню в шапке
         default: true
       - type: list
         name: nav_links
