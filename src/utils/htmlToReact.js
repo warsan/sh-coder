@@ -25,7 +25,7 @@ export default function htmlToReact(html) {
             } else if (node.type === 'tag' && node.name === 'a') {
                 const href = node.attribs.href;
                 const props = _.omit(node.attribs, 'href');
-                // use Link only if there are no custom attributes like style, class, and what's not that might break react
+                // используйте Link только в том случае, если нет пользовательских атрибутов, таких как style, class и т.п., которые могут сломать реакцию.
                 if (_.isEmpty(props)) {
                     return (
                         <Link key={index} href={href} {...props}>
