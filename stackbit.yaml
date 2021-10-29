@@ -442,7 +442,7 @@ models:
         hidden: true
   hero_section:
     type: object
-    label: Hero Section
+    label: Секция героев
     labelField: title
     fields:
       - type: string
