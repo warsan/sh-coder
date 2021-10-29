@@ -54,7 +54,7 @@ models:
         hidden: true
       - type: string
         name: domain
-        label: Domain
+        label: Домен
         description: >-
           Домен вашего сайта, включая протокол, например,
           https://www.example.com/
