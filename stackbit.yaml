@@ -597,7 +597,7 @@ models:
         description: The position of the image
       - type: list
         name: actions
-        label: Action Buttons
+        label: Кнопки действий
         items:
           type: model
           models:
