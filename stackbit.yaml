@@ -177,7 +177,7 @@ models:
         label: Image Alt Text
       - type: markdown
         name: bio
-        label: Bio
+        label: Био
   category:
     type: data
     label: Категория
