@@ -161,7 +161,7 @@ models:
       - type: string
         name: link
         label: Link
-        description: The link to the author page, e.g. "blog/author/john-doe"
+        description: Ссылка на страницу автора, например. "blog/author/john-doe"
       - type: string
         name: first_name
         label: Имя
