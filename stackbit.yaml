@@ -347,7 +347,7 @@ models:
         hidden: true
   contact_section:
     type: object
-    label: Contact Section
+    label: Контактная секция
     labelField: title
     fields:
       - type: string
