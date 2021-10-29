@@ -1,7 +1,7 @@
 import _ from 'lodash';
 
 /**
- * Get the page at the provided `urlPath`.
+ * Получите страницу по указанному адресу `urlPath`.
  *
  * @param {Array} pages Array of page objects. All pages must have '__metadata.urlPath' field.
  * @param {string} urlPath The url path to find the page by
