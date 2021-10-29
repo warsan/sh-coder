@@ -520,7 +520,7 @@ models:
               - contain
               - cover
             default: cover
-            description: The size of the background image
+            description: Размер фонового изображения
           - type: enum
             name: background_image_repeat
             label: Background Image Repeat
