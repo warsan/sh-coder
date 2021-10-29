@@ -687,5 +687,5 @@ models:
               label: Ключевое имя
             - type: boolean
               name: relativeUrl
-              label: Relative Url
+              label: Относительный Url
     labelField: title
