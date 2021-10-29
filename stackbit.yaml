@@ -335,7 +335,7 @@ models:
           - person
       - type: reference
         name: category
-        label: Category Filter
+        label: Фильтр категорий
         description: Фильтровать сообщения по категориям
         models:
           - category
