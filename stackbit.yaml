@@ -48,8 +48,8 @@ models:
         name: path_prefix
         label: Base URL
         description: >-
-          The base URL of this site. Useful for sites hosted under specific
-          path, e.g.: https://www.example.com/my-site/
+          Базовый URL-адрес этого сайта. Полезно для сайтов, размещенных по
+          определенному пути, например: https://www.example.com/my-site/
         required: true
         hidden: true
       - type: string
