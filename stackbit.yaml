@@ -618,7 +618,7 @@ models:
         default: '#'
       - type: enum
         name: style
-        label: Style
+        label: Стиль
         options:
           - link
           - primary
