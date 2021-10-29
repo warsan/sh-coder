@@ -375,7 +375,7 @@ models:
         description: Текстовое содержание раздела
       - type: string
         name: type
-        label: Object Type
+        label: Тип объекта
         description: Тип объекта
         const: content_section
         hidden: true
