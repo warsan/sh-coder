@@ -390,7 +390,7 @@ models:
         description: Название раздела
       - type: string
         name: subtitle
-        label: Subtitle
+        label: Субтитр
         description: Подзаголовок раздела
       - type: list
         name: actions
