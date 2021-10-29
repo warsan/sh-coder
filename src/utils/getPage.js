@@ -3,7 +3,7 @@ import _ from 'lodash';
 /**
  * Получите страницу по указанному адресу `urlPath`.
  *
- * @param {Array} pages Array of page objects. All pages must have '__metadata.urlPath' field.
+ * @param {Array} pages Массив объектов страниц. Все страницы должны иметь поле '__metadata.urlPath'.
  * @param {string} urlPath The url path to find the page by
  * @return {Object}
  */
