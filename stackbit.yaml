@@ -69,7 +69,7 @@ models:
           - header
       - type: model
         name: footer
-        label: Footer Configuration
+        label: Конфигурация тапок
         models:
           - footer
     file: config.json
