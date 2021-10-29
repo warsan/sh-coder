@@ -676,7 +676,7 @@ models:
             - type: string
               name: name
               default: ''
-              label: Name
+              label: Имя
             - type: string
               name: value
               default: ''
