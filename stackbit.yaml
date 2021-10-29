@@ -667,8 +667,8 @@ models:
         name: extra
         label: Extra
         description: >-
-          Additional definition for specific meta tags such as open-graph,
-          twitter, etc.
+          Дополнительное определение для специфических метатегов, таких как
+          open-graph, twitter и т.д.
         items:
           type: object
           labelField: name
