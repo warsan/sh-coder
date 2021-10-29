@@ -501,7 +501,7 @@ models:
               - gray
               - blue
             default: white
-            description: The background color of the section
+            description: Цвет фона раздела
           - type: image
             name: background_image
             label: Background Image
