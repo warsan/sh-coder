@@ -684,7 +684,7 @@ models:
             - type: string
               name: keyName
               default: name
-              label: Key Name
+              label: Ключевое имя
             - type: boolean
               name: relativeUrl
               label: Relative Url
