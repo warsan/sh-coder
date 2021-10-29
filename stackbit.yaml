@@ -330,7 +330,7 @@ models:
       - type: reference
         name: author
         label: Авторский фильтр
-        description: Filter posts by an author
+        description: Фильтровать сообщения автора
         models:
           - person
       - type: reference
