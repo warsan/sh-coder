@@ -623,7 +623,7 @@ models:
           - link
           - primary
           - secondary
-        default: link
+        default: ссылка
         required: true
       - type: boolean
         name: new_window
