@@ -82,7 +82,7 @@ models:
       - type: string
         name: title
         label: Заголовок в шапке
-        description: Текст, отображаемый в заголовке, если изображение логотипа не указано
+        description: Текст, отображаемый в шапке, если изображение логотипа не указано
       - type: image
         name: logo
         label: Logo
