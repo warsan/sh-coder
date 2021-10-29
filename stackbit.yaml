@@ -504,7 +504,7 @@ models:
             description: Цвет фона раздела
           - type: image
             name: background_image
-            label: Background Image
+            label: Фоновое изображение
             description: The image displayed in the background of the section
           - type: number
             name: background_image_opacity
