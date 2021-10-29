@@ -537,7 +537,7 @@ models:
         hidden: true
   team_section:
     type: object
-    label: Team Section
+    label: Секция команды
     labelField: title
     fields:
       - type: string
