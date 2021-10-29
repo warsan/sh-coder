@@ -309,7 +309,7 @@ models:
     labelField: title
   blog_feed_section:
     type: object
-    label: Blog Feed Section
+    label: Раздел ленты блога
     labelField: title
     fields:
       - type: string
