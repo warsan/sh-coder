@@ -495,7 +495,7 @@ models:
         fields:
           - type: enum
             name: background_color
-            label: Background Color
+            label: Цвет фона
             options:
               - white
               - gray
