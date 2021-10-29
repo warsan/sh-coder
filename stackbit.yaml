@@ -508,7 +508,7 @@ models:
             description: Фоновое изображение раздела
           - type: number
             name: background_image_opacity
-            label: Background Image Opacity
+            label: Непрозрачность фонового изображения
             description: >-
               An integer between 0 and 100. A lower value makes the image more
               transparent.
