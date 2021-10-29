@@ -532,7 +532,7 @@ models:
       - type: string
         name: type
         label: Object Type
-        description: The type of the object
+        description: Тип объекта
         const: hero_section
         hidden: true
   team_section:
