@@ -141,7 +141,7 @@ models:
         description: Текст авторского права, отображаемый в подошве
       - type: list
         name: links
-        label: Links
+        label: Ссылки
         description: Список ссылок, отображаемых в подошве
         items:
           type: model
