@@ -193,7 +193,7 @@ models:
         required: true
       - type: string
         name: link
-        label: Link
+        label: Ссылка
         description: Ссылка на страницу категории, например. "blog/category/news"
       - type: string
         name: title
