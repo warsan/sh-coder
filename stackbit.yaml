@@ -124,7 +124,7 @@ models:
             - action
       - type: boolean
         name: has_social
-        label: Enable Social Links
+        label: Включить социальные ссылки
         description: Отображение социальных ссылок в подошве
         default: true
       - type: list
