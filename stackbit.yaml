@@ -641,7 +641,7 @@ models:
       - type: string
         name: title
         label: Title
-        description: The page title that goes into the <title> tag
+        description: Заголовок страницы, который помещается в тег <title>.
         default: ''
       - type: string
         name: description
