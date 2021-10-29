@@ -352,7 +352,7 @@ models:
     fields:
       - type: string
         name: title
-        label: Title
+        label: Название
         description: Название раздела
       - type: string
         name: type
