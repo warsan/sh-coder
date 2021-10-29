@@ -514,7 +514,7 @@ models:
               прозрачным.
           - type: enum
             name: background_image_size
-            label: Background Image Size
+            label: Размер фонового изображения
             options:
               - auto
               - contain
