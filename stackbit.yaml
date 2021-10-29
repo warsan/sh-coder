@@ -633,7 +633,7 @@ models:
         name: no_follow
         label: No follow
         default: false
-        description: Add rel="nofollow" attribute to the link
+        description: Добавить rel="nofollow" атрибут ссылки
   stackbit_page_meta:
     type: object
     label: Page meta data
