@@ -197,7 +197,7 @@ models:
         description: Ссылка на страницу категории, например. "blog/category/news"
       - type: string
         name: title
-        label: Title
+        label: Название
         required: true
   page:
     type: page
