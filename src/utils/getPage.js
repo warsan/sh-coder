@@ -4,7 +4,7 @@ import _ from 'lodash';
  * Получите страницу по указанному адресу `urlPath`.
  *
  * @param {Array} pages Массив объектов страниц. Все страницы должны иметь поле '__metadata.urlPath'.
- * @param {string} urlPath The url path to find the page by
+ * @param {string} urlPath url-путь для поиска страницы
  * @return {Object}
  */
 export default function getPage(pages, urlPath) {
