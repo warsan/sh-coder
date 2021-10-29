@@ -329,7 +329,7 @@ models:
         label: Количество последних сообщений для показа
       - type: reference
         name: author
-        label: Author Filter
+        label: Авторский фильтр
         description: Filter posts by an author
         models:
           - person
