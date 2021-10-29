@@ -1,5 +1,5 @@
 ---
-title: Privacy and Terms
+title: Конфиденциальность и условия
 seo:
   title: Privacy and Terms
   description: This is the privacy and terms page
