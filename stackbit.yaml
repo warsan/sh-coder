@@ -381,7 +381,7 @@ models:
         hidden: true
   cta_section:
     type: object
-    label: CTA Section
+    label: Раздел CTA
     labelField: title
     fields:
       - type: string
