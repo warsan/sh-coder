@@ -569,7 +569,7 @@ models:
       - type: markdown
         name: content
         label: Content
-        description: The text content of the feature
+        description: Текстовое содержание характеристики
       - type: enum
         name: align
         label: Align
