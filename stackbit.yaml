@@ -394,7 +394,7 @@ models:
         description: Подзаголовок раздела
       - type: list
         name: actions
-        label: Action Buttons
+        label: Кнопки действий
         items:
           type: model
           models:
