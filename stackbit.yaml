@@ -391,7 +391,7 @@ models:
       - type: string
         name: subtitle
         label: Subtitle
-        description: The subtitle of the section
+        description: Подзаголовок раздела
       - type: list
         name: actions
         label: Action Buttons
