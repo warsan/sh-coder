@@ -543,7 +543,7 @@ models:
       - type: string
         name: title
         label: Title
-        description: The title of the section
+        description: Название раздела
       - type: list
         name: team
         label: Команда
