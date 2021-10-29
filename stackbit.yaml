@@ -81,7 +81,7 @@ models:
     fields:
       - type: string
         name: title
-        label: Текст заголовка
+        label: Заголовок в шапке
         description: Текст, отображаемый в заголовке, если изображение логотипа не указано
       - type: image
         name: logo
