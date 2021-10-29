@@ -559,7 +559,7 @@ models:
         hidden: true
   feature:
     type: object
-    label: Feature
+    label: Характеристика
     labelField: title
     fields:
       - type: string
