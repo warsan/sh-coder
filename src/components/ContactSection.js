@@ -44,7 +44,7 @@ export default class ContactSection extends React.Component {
                             <label id="consent-label" htmlFor="consent">Я понимаю, что эта форма сохраняет предоставленную мной информацию, чтобы со мной можно было связаться.</label>
                         </div>
                         <div className="form-submit">
-                            <button type="submit" className="button">Get In Touch</button>
+                            <button type="submit" className="button">Свяжитесь с нами</button>
                         </div>
                     </form>
                 </div>
