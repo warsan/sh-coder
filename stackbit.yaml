@@ -99,7 +99,7 @@ models:
       - type: list
         name: nav_links
         label: Navigation Menu Links
-        description: List of navigation links in header
+        description: Список навигационных ссылок в заголовке
         items:
           type: model
           models:
