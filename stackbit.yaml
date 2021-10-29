@@ -111,7 +111,7 @@ models:
     fields:
       - type: boolean
         name: has_nav
-        label: Enable Navigation Menu
+        label: Включить меню навигации
         description: Отображение вторичного навигационного меню в подошве
         default: true
       - type: list
