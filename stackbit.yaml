@@ -371,7 +371,7 @@ models:
         description: Название раздела
       - type: markdown
         name: content
-        label: Content
+        label: Содержание
         description: Текстовое содержание раздела
       - type: string
         name: type
