@@ -451,7 +451,7 @@ models:
         description: Название раздела
       - type: string
         name: subtitle
-        label: Subtitle
+        label: Субтитр
         description: The subtitle of the section
       - type: list
         name: actions
