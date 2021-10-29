@@ -137,7 +137,7 @@ models:
             - action
       - type: string
         name: content
-        label: Footer Content
+        label: Содержание подошвы
         description: The copyright text displayed in the footer
       - type: list
         name: links
