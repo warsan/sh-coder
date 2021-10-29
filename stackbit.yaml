@@ -362,7 +362,7 @@ models:
         hidden: true
   content_section:
     type: object
-    label: Content Section
+    label: Раздел содержания
     labelField: title
     fields:
       - type: string
