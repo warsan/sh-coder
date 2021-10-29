@@ -76,7 +76,7 @@ models:
     labelField: title
   header:
     type: object
-    label: Конфигурация заголовка
+    label: Конфигурация шапки
     labelField: title
     fields:
       - type: string
