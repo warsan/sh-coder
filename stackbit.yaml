@@ -578,7 +578,7 @@ models:
           - right
           - center
         default: left
-        description: The alignment of the text content
+        description: Выравнивание текстового содержимого
       - type: image
         name: image
         label: Image
