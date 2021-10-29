@@ -636,7 +636,7 @@ models:
         description: Добавить rel="nofollow" атрибут ссылки
   stackbit_page_meta:
     type: object
-    label: Page meta data
+    label: Метаданные страницы
     fields:
       - type: string
         name: title
