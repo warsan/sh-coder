@@ -117,7 +117,7 @@ models:
       - type: list
         name: nav_links
         label: Navigation Menu Links
-        description: List of navigation links in footer
+        description: Список навигационных ссылок в подошве
         items:
           type: model
           models:
