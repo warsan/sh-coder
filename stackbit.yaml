@@ -401,7 +401,7 @@ models:
             - action
       - type: boolean
         name: has_background
-        label: Enable section background
+        label: Включить фон раздела
         default: false
       - type: enum
         name: background_color
