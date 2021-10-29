@@ -510,8 +510,8 @@ models:
             name: background_image_opacity
             label: Непрозрачность фонового изображения
             description: >-
-              An integer between 0 and 100. A lower value makes the image more
-              transparent.
+              Целое число от 0 до 100. Меньшее значение делает изображение более
+              прозрачным.
           - type: enum
             name: background_image_size
             label: Background Image Size
