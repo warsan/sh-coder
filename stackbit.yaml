@@ -164,7 +164,7 @@ models:
         description: The link to the author page, e.g. "blog/author/john-doe"
       - type: string
         name: first_name
-        label: First Name
+        label: Имя
         required: true
       - type: string
         name: last_name
