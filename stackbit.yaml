@@ -462,7 +462,7 @@ models:
             - action
       - type: enum
         name: align
-        label: Align
+        label: Выровнять
         options:
           - left
           - right
