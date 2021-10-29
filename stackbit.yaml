@@ -491,7 +491,7 @@ models:
         default: false
       - type: object
         name: background
-        label: Background Configuration
+        label: Фоновая конфигурация
         fields:
           - type: enum
             name: background_color
