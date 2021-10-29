@@ -505,7 +505,7 @@ models:
           - type: image
             name: background_image
             label: Фоновое изображение
-            description: The image displayed in the background of the section
+            description: Фоновое изображение раздела
           - type: number
             name: background_image_opacity
             label: Background Image Opacity
