@@ -168,7 +168,7 @@ models:
         required: true
       - type: string
         name: last_name
-        label: Last Name
+        label: Фамилия
       - type: image
         name: photo
         label: Image
