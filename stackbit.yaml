@@ -523,7 +523,7 @@ models:
             description: Размер фонового изображения
           - type: enum
             name: background_image_repeat
-            label: Background Image Repeat
+            label: Повтор фонового изображения
             options:
               - repeat
               - no-repeat
