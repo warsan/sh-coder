@@ -368,7 +368,7 @@ models:
       - type: string
         name: title
         label: Title
-        description: The title of the section
+        description: Название раздела
       - type: markdown
         name: content
         label: Content
