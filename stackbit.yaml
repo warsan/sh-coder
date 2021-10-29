@@ -565,7 +565,7 @@ models:
       - type: string
         name: title
         label: Title
-        description: The title of the feature
+        description: Название характеристики
       - type: markdown
         name: content
         label: Content
