@@ -17,7 +17,7 @@ export default class ContactSection extends React.Component {
                         </div>
                         <input aria-labelledby="honeypot-label" type="hidden" name="form-name" value="contactForm" />
                         <div className="form-group">
-                            <label id="name-label" htmlFor="name">Name</label>
+                            <label id="name-label" htmlFor="name">Имя</label>
                             <input aria-labelledby="name-label" type="text" name="name" id="name" placeholder="Your name" required />
                         </div>
                         <div className="form-group">
