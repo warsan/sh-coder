@@ -568,7 +568,7 @@ models:
         description: Название характеристики
       - type: markdown
         name: content
-        label: Content
+        label: Содержание
         description: Текстовое содержание характеристики
       - type: enum
         name: align
