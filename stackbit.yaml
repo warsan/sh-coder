@@ -546,7 +546,7 @@ models:
         description: The title of the section
       - type: list
         name: team
-        label: Team
+        label: Команда
         items:
           type: reference
           models:
