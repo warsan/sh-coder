@@ -336,7 +336,7 @@ models:
       - type: reference
         name: category
         label: Category Filter
-        description: Filter posts by category
+        description: Фильтровать сообщения по категориям
         models:
           - category
       - type: string
