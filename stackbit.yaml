@@ -420,7 +420,7 @@ models:
         hidden: true
   features_section:
     type: object
-    label: Features Section
+    label: Особенности раздела
     labelField: title
     fields:
       - type: string
