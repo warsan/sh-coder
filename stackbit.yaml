@@ -112,7 +112,7 @@ models:
       - type: boolean
         name: has_nav
         label: Enable Navigation Menu
-        description: Display the secondary navigation menu in the footer
+        description: Отображение вторичного навигационного меню в подошве
         default: true
       - type: list
         name: nav_links
