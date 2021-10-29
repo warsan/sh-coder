@@ -484,7 +484,7 @@ models:
           - left
           - right
         default: left
-        description: The position of the image
+        description: Положение изображения
       - type: boolean
         name: has_background
         label: Enable section background
