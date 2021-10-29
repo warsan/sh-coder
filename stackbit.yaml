@@ -106,7 +106,7 @@ models:
             - action
   footer:
     type: object
-    label: Footer Configuration
+    label: Конфигурация тапок
     labelField: content
     fields:
       - type: boolean
