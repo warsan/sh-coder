@@ -594,7 +594,7 @@ models:
           - left
           - right
         default: left
-        description: The position of the image
+        description: Положение изображения
       - type: list
         name: actions
         label: Кнопки действий
