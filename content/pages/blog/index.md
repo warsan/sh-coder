@@ -1,5 +1,5 @@
 ---
-title: Б
+title: Блог
 sections:
   - type: hero_section
     title: Blog
