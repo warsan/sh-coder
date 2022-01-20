@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Блог
     align: center
-    has_background: true
+    has_background: false
   - type: blog_feed_section
     show_recent: false
 seo:
