@@ -10,8 +10,9 @@ tags:
 image: images/5.png
 image_alt: Post 5 placeholder image
 excerpt: >-
-  Четверостиший строка обернётся балладой, Чревоугодничий стих прожужжат комары,
-  Чаяний мёд разольётся по телу усладой, Чаю нальёт повариха, сопрев от жары...
+  Четверостиший строка обернётся балладой,     Чревоугодничий стих прожужжат
+  комары, Чаяний мёд разольётся по телу усладой, Чаю нальёт повариха, сопрев от
+  жары...
 seo:
   title: Amet Nulla Facilisi Morbi Tempus
   description: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
