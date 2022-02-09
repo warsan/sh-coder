@@ -1,5 +1,5 @@
 ---
-title: Похвали нас
+title: K
 date: '2020-06-02'
 author: content/data/team/gordon-norman.yaml
 categories:
