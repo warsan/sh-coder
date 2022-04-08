@@ -1,6 +1,6 @@
 {
-  "name": "starter-nextjs",
-  "description": "A Stackbit Starter theme built with Next.js",
+  "name": "sh-koder",
+  "description": "Это \"Стартер\" Стэкбита. тема, построена с использованием Next.js и на основе содержимого, хранящегося в файлах.",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
@@ -31,5 +31,6 @@
   },
   "devDependencies": {
     "prettier": "^2.2.1"
-  }
+  },
+  "keywords": []
 }
